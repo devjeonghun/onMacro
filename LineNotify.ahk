@@ -1,7 +1,7 @@
 ;------------------------------------------------------------------------
-; ∂Û¿Œ PUSH ∏ﬁΩ√¡ˆ
+; ¬∂√≥√Ä√é PUSH ¬∏√û¬Ω√É√Å√∂
 ;------------------------------------------------------------------------
-token := "qukZiB2JkY9uYP2m9n5nCUWuysRzV7OIhWFCxiOI851"
+token := "tokenID"
 url := "https://notify-api.line.me/api/notify"
 headers := { "Authorization": "Bearer " . token}
 
